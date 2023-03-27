@@ -1,5 +1,4 @@
 The ProvideQ toolbox is deployed at https://provideq.kit.edu <br>
-Beta versions are deployed at https://beta.provideq.kit.edu <br>
 You can access our API via *api.provide.kit.edu*
 
 
