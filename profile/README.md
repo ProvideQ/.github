@@ -1,4 +1,4 @@
-ProvideQ is currently in development. <br>
+The ProvideQ toolbox is currently in development. <br>
 Check out our prototype: https://provideq.kit.edu/ <br>
 **Please note:** We currently face DNS issues with the website. It might not be reachable!
 
