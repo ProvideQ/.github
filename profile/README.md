@@ -1,12 +1,9 @@
-**Repo Overview:** 
+ProvideQ is currently in development. <br>
+Check out our prototype: https://provideq.kit.edu/ <br>
+**Please note:** We currently face DNS issues with the website. It might not be reachable!
 
-Documentation: https://github.com/ProvideQ/wiki <br>
-Frontend Code: https://github.com/ProvideQ/toolbox-web <br>
-Backend Code: https://github.com/ProvideQ/toolbox-server <br>
-
-**Learn more:** 
-
+**Learn more:** <br>
 [ProvideQ BMWK (sponsor) side - in german](https://www.digitale-technologien.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/Quanten_Computing/Projekte/ProvideQ/provideq.html) <br>
 [ProvideQ Overview @ KIT - in english](https://tva.kastel.kit.edu/english/research_177.php) 
 
-If you want to contribute to ProvideQ, please read: https://github.com/ProvideQ/wiki/wiki/Contribution-Guide
+If you want to contribute to ProvideQ, look here: https://github.com/ProvideQ/wiki/wiki/Contribution-Guide
