@@ -5,7 +5,7 @@ If you have any issues, contact us via <provideq@lists.kit.edu>
 
 **Recommended Links:** <br>
 - https://provideq.kit.edu - a (hopefully) stable version of ProvideQ. <br>
-- https://beta.provideq.kit.edu - a frequently updates test version of ProvideQ <br>
+- https://beta.provideq.kit.edu - a frequently updated test version of ProvideQ. Might be unreachable during some periods. <br>
 
 **Our Publication:** <br>
 - D. Eichhorn, M. Schweikart, N. Poser, F. Fiand, B. Poggel and J. M. Lorenz, <br>
