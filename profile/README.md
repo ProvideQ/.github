@@ -15,7 +15,7 @@ Link: https://ieeexplore.ieee.org/abstract/document/10821252
 
 - D. Eichhorn, N. Poser, M. Schweikart, I. Schaefer, <br>
 "ProvideQ: A Quantum Optimization Toolbox" <br>
-2025 IEEE Internation Conference on Quantum Software, Helsinki, Finland, 2025 <br>
+2025 IEEE Internation Conference on Quantum Software (QSW), Helsinki, Finland, 2025 <br>
 ArXiv Preprint: https://arxiv.org/abs/2507.07649
 
 **Fundings:** <br>
