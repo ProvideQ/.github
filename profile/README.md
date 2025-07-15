@@ -1,13 +1,13 @@
 Welcome at our GitHub! Happy to see you here! :)
 
-The ProvideQ toolbox is currently still in development. <br>
+The ProvideQ toolbox is currently still in development.<br>
 If you have any issues, contact us via <provideq@lists.kit.edu>
 
 **Recommended Links:** <br>
 - https://provideq.kit.edu - a (hopefully) stable version of ProvideQ. <br>
 - https://beta.provideq.kit.edu - a frequently updated test version of ProvideQ. Might be unreachable during some periods. <br>
 
-**Our Publication:** <br>
+**Publications:** <br>
 - D. Eichhorn, M. Schweikart, N. Poser, F. Fiand, B. Poggel and J. M. Lorenz, <br>
 "Hybrid Meta-Solving for Practical Quantum Computing," <br> 
 2024 IEEE International Conference on Quantum Computing and Engineering (QCE), Montreal, QC, Canada, 2024 <br>
